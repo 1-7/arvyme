@@ -1,0 +1,142 @@
+Aug 22, 2016, 2:15:09 PM
+
+ERROR: Download of "http://www.arvy.me/xmlrpc.php",
+	referenced from "http://www.arvy.me/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://www.arvy.me/xmlrpc.php?rsd",
+	referenced from "http://www.arvy.me/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/favicon.ico",
+	referenced from "http://www.arvy.me/",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/en",
+	referenced from "http://www.arvy.me/",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/functions/images/inkthemeslogo.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/functions/admin-style.css?ver=4.1.12",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/menuarow.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/style.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/arrow.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/style.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/arrows.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/style.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/footer-border.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/style.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/folder.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/style.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/clock.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/style.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/account.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/style.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/codebg.jpg",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/style.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/default/sprite.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/default/sprite_x.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/default/sprite_y.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/default/sprite_next.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/default/sprite_prev.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/default/default_thumb.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/default/loader.gif",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/light_rounded/btnPrevious.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/light_rounded/sprite.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/light_rounded/btnNext.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/light_rounded/loader.gif",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_rounded/sprite.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_rounded/contentPattern.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_rounded/btnNext.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_rounded/btnPrevious.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_rounded/loader.gif",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_square/sprite.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_square/loader.gif",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_square/btnNext.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/dark_square/btnPrevious.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/light_square/sprite.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/light_square/btnNext.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/light_square/btnPrevious.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/sprite.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/contentPatternTop.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/btnNext.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/btnPrevious.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/contentPatternBottom.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/contentPatternLeft.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/contentPatternRight.png",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/loader.gif",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://www.arvy.me/wp-content/themes/bizway/images/prettyPhoto/facebook/default_thumbnail.gif",
+	referenced from "http://www.arvy.me/wp-content/themes/bizway/css/prettyPhoto.css",
+	failed with error code -1100 (File does not exist.)
+
+Aug 22, 2016, 2:15:38 PM
+
+---------------------
+
